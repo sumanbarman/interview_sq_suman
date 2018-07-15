@@ -9,5 +9,5 @@ Sectin 2:
   
 Section 3:
   1. Sonar Qube: https://github.com/sumanbarman/interview_sq_suman/blob/master/SonarQube_Report.jpeg
-  2. Final Output Snapshot: https://github.com/sumanbarman/interview_sq_suman/blob/master/Result.jpeg
+  2. Final Output Snapshot: https://github.com/sumanbarman/interview_sq_suman/blob/master/Result.JPG
   
