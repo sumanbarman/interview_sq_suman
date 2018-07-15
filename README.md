@@ -8,6 +8,6 @@ Sectin 2:
   JDK Version: JDK.8.0_66
   
 Section 3:
-  1. Sonar Qube: 
-  2. Final Output Snapshot: 
+  1. Sonar Qube: https://github.com/sumanbarman/interview_sq_suman/SonarQube_Report.jpeg
+  2. Final Output Snapshot: https://github.com/sumanbarman/interview_sq_suman/Result,jpeg
   
